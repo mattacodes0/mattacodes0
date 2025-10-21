@@ -1,5 +1,4 @@
 # Hello, I am Matija Davidović <img src="https://imgur.com/ZN8kuRi.png" width="30px" height="auto"/>
-#
 🧠 Languages I know / learn <br>
 › C# - development of desktop and web applications in .NET environment <br>
 › C / C+ - programming basis, memory work and algorithms <br>
