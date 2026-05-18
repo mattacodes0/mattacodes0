@@ -10,3 +10,6 @@
 <span style="color:#afd69b;">daily_driver:</span> Fedora Linux + GNOME
 <span style="color:#afd69b;">available_for:</span> Freelance Projects & Collaboration
 </pre>
+
+<img width="1420" height="168" alt="image" src="https://github.com/user-attachments/assets/cd43db23-fb50-41b9-b2d3-eb53d4d56550" />
+
