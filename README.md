@@ -1,7 +1,7 @@
 # Hello, I am Matija Davidović <img src="https://imgur.com/ZN8kuRi.png" width="30px" height="auto"/>
 👨‍💻 **About Me**
 ```
-name: Matija Davidović
+<#afd69b>name: Matija Davidović
 location: Banjaluka, Republika Srpska
 education: Electrical Engineering @ University of Banja Luka
 role: Full-Stack Developer & Technical Writer
